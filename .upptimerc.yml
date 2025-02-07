@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Shields.io Status
   introTitle: Shields.io Uptime Monitoring
-  introMessage: Pings for various endpoints on [shields.io](https://shields.io/), pwered by [Upptime](https://github.com/upptime/upptime).
+  introMessage: Pings for various endpoints on [shields.io](https://shields.io/), powered by [Upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status Page
       href: /
