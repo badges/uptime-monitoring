@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shields.io.ico",
     "slug": "shields-io-homepage",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 741,
     "timeDay": 8270,
     "timeWeek": 3434,
     "timeMonth": 1149,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2025-03-30": 7
+      "2025-03-30": 14
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "npm-version-badge",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
     "time": 1299,
     "timeDay": 10137,
     "timeWeek": 4992,
     "timeMonth": 1988,
     "timeYear": 1299,
     "dailyMinutesDown": {
-      "2025-03-30": 36,
+      "2025-03-30": 43,
       "2025-03-29": 6
     }
   },
@@ -63,17 +63,17 @@
     "url": "https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields",
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "git-hub-issues-badge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "99.14%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 1108,
-    "timeDay": 10930,
-    "timeWeek": 5056,
-    "timeMonth": 1747,
-    "timeYear": 1108,
+    "time": 1374,
+    "timeDay": 11861,
+    "timeWeek": 6011,
+    "timeMonth": 2169,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2025-03-30": 12
     }
