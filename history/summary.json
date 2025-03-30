@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "npm-version-badge",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 586,
     "timeDay": 7827,
     "timeWeek": 2472,
     "timeMonth": 860,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-03-30": 1,
+      "2025-03-30": 9,
       "2025-03-29": 6
     }
   },
@@ -61,19 +61,19 @@
     "url": "https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields",
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "git-hub-issues-badge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 7763,
-    "timeWeek": 2061,
-    "timeMonth": 654,
-    "timeYear": 445,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 684,
+    "timeDay": 9694,
+    "timeWeek": 3338,
+    "timeMonth": 1057,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-03-30": 0
+      "2025-03-30": 8
     }
   }
 ]
