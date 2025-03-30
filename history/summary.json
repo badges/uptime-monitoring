@@ -4,19 +4,19 @@
     "url": "https://shields.io/",
     "icon": "https://icons.duckduckgo.com/ip3/shields.io.ico",
     "slug": "shields-io-homepage",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "92.30%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.85%",
-    "time": 1288,
-    "timeDay": 8678,
-    "timeWeek": 5049,
-    "timeMonth": 2007,
-    "timeYear": 1288,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "92.01%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.84%",
+    "time": 1274,
+    "timeDay": 7764,
+    "timeWeek": 4743,
+    "timeMonth": 1966,
+    "timeYear": 1274,
     "dailyMinutesDown": {
-      "2025-03-30": 112
+      "2025-03-30": 116
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "npm-version-badge",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "92.04%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "91.63%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.83%",
     "time": 2231,
     "timeDay": 10840,
     "timeWeek": 6958,
     "timeMonth": 3321,
     "timeYear": 2231,
     "dailyMinutesDown": {
-      "2025-03-30": 115,
+      "2025-03-30": 121,
       "2025-03-29": 6
     }
   },
@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "git-hub-issues-badge",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.90%",
     "time": 2418,
     "timeDay": 12186,
     "timeWeek": 8177,
     "timeMonth": 3682,
     "timeYear": 2418,
     "dailyMinutesDown": {
-      "2025-03-30": 68
+      "2025-03-30": 74
     }
   }
 ]
