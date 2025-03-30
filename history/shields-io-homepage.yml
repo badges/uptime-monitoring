@@ -1,7 +1,7 @@
 url: https://shields.io/
-status: up
-code: 200
-responseTime: 111
-lastUpdated: 2025-03-30T11:34:40.451Z
+status: down
+code: 503
+responseTime: 16356
+lastUpdated: 2025-03-30T11:53:37.568Z
 startTime: 2025-02-07T18:20:39.862Z
 generator: Upptime <https://github.com/upptime/upptime>
