@@ -4,19 +4,19 @@
     "url": "https://shields.io/",
     "icon": "https://icons.duckduckgo.com/ip3/shields.io.ico",
     "slug": "shields-io-homepage",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.87%",
-    "time": 1068,
-    "timeDay": 8977,
-    "timeWeek": 4594,
-    "timeMonth": 1677,
-    "timeYear": 1068,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.86%",
+    "time": 1054,
+    "timeDay": 7727,
+    "timeWeek": 4258,
+    "timeMonth": 1637,
+    "timeYear": 1054,
     "dailyMinutesDown": {
-      "2025-03-30": 92
+      "2025-03-30": 104
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "npm-version-badge",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "93.37%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.84%",
+    "uptimeDay": "92.47%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.84%",
     "time": 1956,
     "timeDay": 10801,
     "timeWeek": 6505,
     "timeMonth": 2945,
     "timeYear": 1956,
     "dailyMinutesDown": {
-      "2025-03-30": 96,
+      "2025-03-30": 109,
       "2025-03-29": 6
     }
   },
@@ -63,19 +63,19 @@
     "url": "https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields",
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "git-hub-issues-badge",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.93%",
-    "time": 2243,
-    "timeDay": 13054,
-    "timeWeek": 8219,
-    "timeMonth": 3469,
-    "timeYear": 2243,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.92%",
+    "time": 2211,
+    "timeDay": 11887,
+    "timeWeek": 7748,
+    "timeMonth": 3388,
+    "timeYear": 2211,
     "dailyMinutesDown": {
-      "2025-03-30": 49
+      "2025-03-30": 62
     }
   }
 ]
