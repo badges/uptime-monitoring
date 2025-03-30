@@ -4,19 +4,19 @@
     "url": "https://shields.io/",
     "icon": "https://icons.duckduckgo.com/ip3/shields.io.ico",
     "slug": "shields-io-homepage",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "91.34%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.83%",
-    "time": 1691,
-    "timeDay": 8401,
-    "timeWeek": 5671,
-    "timeMonth": 2577,
-    "timeYear": 1691,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.82%",
+    "time": 1720,
+    "timeDay": 8029,
+    "timeWeek": 5560,
+    "timeMonth": 2600,
+    "timeYear": 1720,
     "dailyMinutesDown": {
-      "2025-03-30": 125
+      "2025-03-30": 130
     }
   },
   {
