@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shields.io.ico",
     "slug": "shields-io-homepage",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 741,
     "timeDay": 8270,
     "timeWeek": 3434,
     "timeMonth": 1149,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2025-03-30": 14
+      "2025-03-30": 26
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://img.shields.io/npm/v/badge-maker",
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "npm-version-badge",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.93%",
-    "time": 1299,
-    "timeDay": 10137,
-    "timeWeek": 4992,
-    "timeMonth": 1988,
-    "timeYear": 1299,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.92%",
+    "time": 1420,
+    "timeDay": 9926,
+    "timeWeek": 5237,
+    "timeMonth": 2163,
+    "timeYear": 1420,
     "dailyMinutesDown": {
-      "2025-03-30": 43,
+      "2025-03-30": 54,
       "2025-03-29": 6
     }
   },
@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "git-hub-issues-badge",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 1374,
     "timeDay": 11861,
     "timeWeek": 6011,
     "timeMonth": 2169,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2025-03-30": 12
+      "2025-03-30": 24
     }
   }
 ]
