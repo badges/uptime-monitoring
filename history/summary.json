@@ -4,7 +4,7 @@
     "url": "https://shields.io/",
     "icon": "https://icons.duckduckgo.com/ip3/shields.io.ico",
     "slug": "shields-io-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 173,
     "timeYear": 882,
     "dailyMinutesDown": {
+      "2025-07-07": 0,
       "2025-03-30": 130
     }
   },
