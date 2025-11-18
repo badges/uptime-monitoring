@@ -1,7 +1,7 @@
 url: https://img.shields.io/badge/foo-bar-blue
-status: up
-code: 200
-responseTime: 186
-lastUpdated: 2025-11-18T12:15:09.823Z
+status: down
+code: 500
+responseTime: 215
+lastUpdated: 2025-11-18T12:51:11.557Z
 startTime: 2025-02-07T18:41:46.524Z
 generator: Upptime <https://github.com/upptime/upptime>
