@@ -46,16 +46,16 @@
     "url": "https://img.shields.io/npm/v/badge-maker",
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "npm-version-badge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.90%",
     "time": 444,
-    "timeDay": 105,
-    "timeWeek": 3175,
-    "timeMonth": 1067,
+    "timeDay": 131,
+    "timeWeek": 2903,
+    "timeMonth": 1042,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2025-10-14": 7,
@@ -64,7 +64,7 @@
       "2026-01-29": 33,
       "2026-04-05": 13,
       "2026-07-19": 228,
-      "2026-07-26": 0
+      "2026-07-26": 37
     }
   },
   {
