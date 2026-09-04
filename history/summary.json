@@ -12,7 +12,7 @@
     "uptimeYear": "99.93%",
     "time": 319,
     "timeDay": 122,
-    "timeWeek": 189,
+    "timeWeek": 190,
     "timeMonth": 151,
     "timeYear": 314,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.97%",
     "time": 139,
     "timeDay": 244,
-    "timeWeek": 160,
+    "timeWeek": 134,
     "timeMonth": 190,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -46,16 +46,16 @@
     "url": "https://img.shields.io/npm/v/badge-maker",
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "npm-version-badge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 397,
-    "timeDay": 243,
-    "timeWeek": 264,
-    "timeMonth": 215,
+    "time": 398,
+    "timeDay": 173,
+    "timeWeek": 236,
+    "timeMonth": 211,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2025-10-14": 7,
@@ -64,7 +64,8 @@
       "2026-01-29": 33,
       "2026-04-05": 13,
       "2026-07-19": 228,
-      "2026-07-26": 37
+      "2026-07-26": 37,
+      "2026-09-04": 0
     }
   },
   {
@@ -80,7 +81,7 @@
     "uptimeYear": "99.92%",
     "time": 418,
     "timeDay": 283,
-    "timeWeek": 362,
+    "timeWeek": 359,
     "timeMonth": 283,
     "timeYear": 467,
     "dailyMinutesDown": {
