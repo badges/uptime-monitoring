@@ -75,24 +75,25 @@
     "url": "https://img.shields.io/github/issues-search?query=repo%3Abadges%2Fshields",
     "icon": "https://icons.duckduckgo.com/ip3/img.shields.io.ico",
     "slug": "git-hub-issues-badge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 550,
-    "timeDay": 303,
-    "timeWeek": 3679,
-    "timeMonth": 1277,
-    "timeYear": 641,
+    "time": 610,
+    "timeDay": 15213,
+    "timeWeek": 6323,
+    "timeMonth": 2125,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2026-02-23": 20,
       "2026-03-03": 22,
       "2026-06-17": 78,
       "2026-07-19": 160,
       "2026-09-19": 4,
-      "2026-11-24": 1
+      "2026-11-24": 1,
+      "2026-11-26": 0
     }
   }
 ]
